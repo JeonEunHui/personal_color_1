@@ -13,7 +13,9 @@
 # 3. 구성도
 ##웹 구성 예시 화면
 화면에 이미지 파일을 입력할 경우 아래와 같은 화면을 얻게 됩니다. 
-![출력이미지]()
+![출력이미지](https://user-images.githubusercontent.com/64572911/195363966-1797fc0f-6ff8-4562-995b-0134f887687a.png)
+![출력이미지2](https://user-images.githubusercontent.com/64572911/195364160-33bb482f-76d8-4dff-967d-c31708f8825d.png)
+![출력이미지3](https://user-images.githubusercontent.com/64572911/195364231-bc049747-03dc-4c32-b60b-48d92880338d.png)
 이미지의 성별, 퍼스널 컬러, 추천 메이크업과 스타일링 등을 출력하여 보여줍니다. 
 
 # 4. 소개 및 시연 영상

@@ -7,7 +7,7 @@
 
 # 2. 팀 소개
 김성웅() - 모델 구축 및 정확도 조정, 데이터셋 전처리
-윤나연() - data crawling 및 모델 구축, 웹 구축
+윤나연(yny1221@naver.com) - data crawling 및 모델 구축, 웹 구축
 전은희(jeon78eun@naver.com) - 데이터셋 전처리 및 웹 구축, 모델 정확도 조정 
 
 # 3. 구성도
